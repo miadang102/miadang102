@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mia Dang 
 - 🌱 I’m an Information Systems graduate from UNSW, Sydney
-- 💞️ I’m looking for BI and Data Analytics positions
+- 💞️ My professional interest lies in Data Analytics, ICT Business Analytics and Cyber Risk Management
 - 📫 Contact me at maikhdang@gmail.com
 
 <!---
